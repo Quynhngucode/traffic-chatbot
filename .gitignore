@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.sqlite3
+
+# Conda env
+env/
+chatbot_env/
+*.conda
+*.egg-info/
+
+# Data / Vector
+data/
+embeddings/
+vector_store.pkl
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# Gradio cache / temp
+.gradio/
