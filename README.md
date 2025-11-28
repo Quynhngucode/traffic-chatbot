@@ -51,7 +51,7 @@ Create a `.env` file in the root directory and populate it with the following in
   LANGCHAIN_PROJECT=traffic-law-chatbot
   ```
 
-### 4. CRun the Application
+### 4. Run the Application
 To start the Chatbot, run the following command:
 
   ```bash
