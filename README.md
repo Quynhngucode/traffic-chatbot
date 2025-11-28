@@ -42,10 +42,10 @@ Once created, activate the environment:
 Create a `.env` file in the root directory and populate it with the following information (replace with your actual keys):
 
   ```env
-  # Google Gemini API (Bắt buộc)
+  # Google Gemini API (Required)
   GOOGLE_API_KEY=AIzaSy...
-  
-  # LangSmith (Tùy chọn - Để tracking và debug)
+ 
+  # LangSmith (Optional - For tracking and debugging)
   LANGCHAIN_TRACING_V2=true
   LANGCHAIN_API_KEY=lsv2_pt_...
   LANGCHAIN_PROJECT=traffic-law-chatbot
